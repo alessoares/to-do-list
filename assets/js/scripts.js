@@ -26,7 +26,6 @@ if(taskToAdd.value.length == 0){
  
 
  tasks.appendChild(check);
- //tasks.appendChild(node);
  tasks.appendChild(lbl);
  tasks.appendChild(br);
 }
